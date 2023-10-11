@@ -1,5 +1,5 @@
 ## walidacja_numerow_kart
-# Lista zadań testowych do sprawdzania ważności numerów kart (długość numeru karty bankowej)
+# Lista zadań testowych do walidacji kart bankowych: walidacja długości numeru karty bankowej
 ### Aplikacja:
 Walidator numeru karty kredytowej
 ## Zadanie testowe:
