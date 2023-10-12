@@ -8,9 +8,9 @@
 ## 2.Kontrola negatywna:
   -niepoprawna długość znaku np.20                                               
   -za mało znaków np. 5 lub 0                             
-  -tekst lubsymbole specjialne                      
-  -przecinek, snake_space                            
+  -tekst lub symbole specjialne                      
+  -przecinek, snake_space  , : , ; "" (NIEPOPRAWNE ZNAKI)                         
   -błędy wartości brzegowych                                    
-## 3.Sprawdz wartości brzegowe.
+## 3.Sprawdz wartości brzegowe. (NP. X=15  ;  X+1 X-1)
 
   
