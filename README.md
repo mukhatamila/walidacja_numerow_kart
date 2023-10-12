@@ -13,4 +13,7 @@
   -błędy wartości brzegowych                                    
 ## 3.Sprawdz wartości brzegowe. (NP. X=15  ;  X+1 X-1)
 
+
+# zadanie 2
+  https://replit.com/join/brovxtevib-jajkubsmalljajka
   
