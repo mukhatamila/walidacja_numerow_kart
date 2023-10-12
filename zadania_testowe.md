@@ -8,9 +8,17 @@ napisz listę do testowania manualnego dla sprawdzania długości numeru karty b
 
 ##  Kontrola pozytywna
 - [ ] napisz 15 zadań testowych
-  
+- [ ] Karta posiada 16 cyfr
 ## Sprawdzanie wartości granicznych
   - [ ] napisz zadania na sprawdzanie wartości granicznych
+  - [ ] Długość symboli 15
+  - [ ] Długość symboli 16
+  - [ ] Długość symboli 17
 
 ## Kontrola negatywna
  - [ ] napisz 8 zadań testowych
+ - [ ] Karta bankowa ma mniej niż 16 cyfr.
+ - [ ] Karta ma więcej niż 16 cyfr.
+ - [ ] Karta nie posiada cyfr.
+ - [ ] Karta posiada litery.
+ - [ ] Karta posiada symbole.
